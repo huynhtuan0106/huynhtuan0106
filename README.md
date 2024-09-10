@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @huynhtuan0106
 - 👀 I’m interested in Fullstack development, Machine Learning, and AI
 - 🌱 I’m currently learning at Ton Duc Thang University
-- 💞️ I’m looking to collaborate on innovative tech projects related to AI, Machine Learning, and app development
+- 💞️ I’m looking to collaborate on innovative tech projects related to Software Development, Machine Learning, and AI
 - 📫 Contact me via email at huynhanhtuan02.tv@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m both an introvert and an extrovert!
